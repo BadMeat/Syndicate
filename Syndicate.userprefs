@@ -1,0 +1,36 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\BoxoxMen.cs">
+    <Files>
+      <File FileName="Assets\Script\BoxoxMen.cs" Line="46" Column="6" />
+      <File FileName="Assets\Script\IroniMan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GroundHangus.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\BaseEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\NormalEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\GunEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\KnifeEnemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\WeaponShop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Shop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Sistem\Game.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Sistem\MenuUtama.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Sistem\GameMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Player\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Sistem\SaveLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Sistem\CharacterSelection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Weapon\MG.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Weapon\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Ground\Semak.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Rottt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Plur.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Weapon\Rocket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Weapon\Gun.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ManyExplo.cs" Line="1" Column="1" />
+      <File FileName="..\..\Game Skripsi\pak ust mencari surga 1-3\Assets\Script\Ground\DeadZone.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

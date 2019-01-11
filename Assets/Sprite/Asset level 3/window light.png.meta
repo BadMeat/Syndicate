@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: e92f535ca5540c942a63106c7657dd5b
+timeCreated: 1475926109
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: underlight
+    21300002: windows
+    21300004: top light
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: underlight
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 307
+        height: 641
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 154}
+        - {x: 36.5, y: 155}
+        - {x: -26.5, y: 155}
+        - {x: -39.5, y: 85}
+        - {x: -53.5, y: -5}
+        - {x: -63.5, y: -64}
+        - {x: -74.5, y: -137}
+        - {x: -74.5, y: -155}
+        - {x: 74.5, y: -155}
+        - {x: 74.5, y: -142}
+        - {x: 67.5, y: -83}
+    - name: windows
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 488
+        width: 196
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.032013, y: 69.7693}
+        - {x: -47.032013, y: 63.769302}
+        - {x: -47.032013, y: -69.2307}
+        - {x: 48.967987, y: -69.2307}
+        - {x: 48.967987, y: 69.7693}
+    - name: top light
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 10
+        width: 352
+        height: 744
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.297546, y: 150.82109}
+        - {x: 43.297546, y: 161.82109}
+        - {x: 30.297546, y: 178.82109}
+        - {x: 26.297546, y: 180.82109}
+        - {x: -9.702454, y: 180.82109}
+        - {x: -20.702454, y: 162.82109}
+        - {x: -22.702454, y: 155.82109}
+        - {x: -51.702454, y: 8.821091}
+        - {x: -68.70245, y: -76.17891}
+        - {x: -84.70245, y: -161.17891}
+        - {x: -84.70245, y: -179.17891}
+        - {x: 85.29755, y: -179.17891}
+        - {x: 85.29755, y: -154.17891}
+        - {x: 66.29755, y: -5.1789093}
+    outline: []
+  spritePackingTag: Level_3
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

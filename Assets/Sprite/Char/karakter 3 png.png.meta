@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 237dfb2f71bd0644b9f2c58e488efbf3
+timeCreated: 1475972839
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Kepala
+    21300002: Senjata
+    21300004: Badan
+    21300006: Tangan Kanan
+    21300008: Tangan Kiri
+    21300010: Paha Kanan
+    21300012: Dengkul Kanan
+    21300014: Dengkul Kiri
+    21300016: Pahah Kiri
+    21300018: Kaki Kiri
+    21300020: Kaki Kanan
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Kepala
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 57.865463}
+        - {x: -53, y: 46.865463}
+        - {x: -53, y: -36.134537}
+        - {x: -23, y: -56.134537}
+        - {x: 43, y: -56.134537}
+        - {x: 53, y: -41.134537}
+        - {x: 53, y: 55.865463}
+        - {x: 46, y: 57.865463}
+    - name: Senjata
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 588
+        width: 462
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.690155, y: 39.688232}
+        - {x: 95.690155, y: 44.688232}
+        - {x: -90.309845, y: 44.688232}
+        - {x: -110.309845, y: 24.688232}
+        - {x: -110.309845, y: -33.311768}
+        - {x: -62.309845, y: -43.311768}
+        - {x: 17.690155, y: -43.311768}
+        - {x: 43.690155, y: -33.311768}
+        - {x: 69.690155, y: -15.311768}
+        - {x: 89.690155, y: -17.311768}
+        - {x: 110.690155, y: 2.6882324}
+    - name: Badan
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 275
+        width: 199
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.60672, y: 72.27426}
+        - {x: -47.60672, y: 64.27426}
+        - {x: -47.60672, y: -71.72574}
+        - {x: 27.39328, y: -71.72574}
+        - {x: 48.39328, y: -57.72574}
+        - {x: 48.39328, y: 60.27426}
+        - {x: 22.39328, y: 72.27426}
+    - name: Tangan Kanan
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 452
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 35.5}
+        - {x: -26, y: 12.5}
+        - {x: -26, y: -33.5}
+        - {x: -21, y: -35.5}
+        - {x: 15, y: -35.5}
+        - {x: 26, y: -12.5}
+        - {x: 26, y: 24.5}
+        - {x: 2, y: 35.5}
+    - name: Tangan Kiri
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 200
+        height: 165
+      alignment: 9
+      pivot: {x: 0.35029614, y: 0.8780399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.724636, y: 10.790489}
+        - {x: -26.275364, y: 10.790489}
+        - {x: -33.275364, y: -11.209511}
+        - {x: -33.275364, y: -61.20951}
+        - {x: -19.275364, y: -69.20951}
+        - {x: 30.724636, y: -69.20951}
+        - {x: 55.724636, y: -66.20951}
+        - {x: 62.724636, y: -60.20951}
+        - {x: 62.724636, y: -30.20951}
+        - {x: 44.724636, y: -2.2095108}
+    - name: Paha Kanan
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 316
+        width: 98
+        height: 131
+      alignment: 9
+      pivot: {x: 0.47694305, y: 0.8018452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.371002, y: 13.970383}
+        - {x: -12.628998, y: 13.970383}
+        - {x: -22.628998, y: 5.9703827}
+        - {x: -22.628998, y: -43.029617}
+        - {x: -21.628998, y: -49.029617}
+        - {x: -17.628998, y: -50.029617}
+        - {x: 20.371002, y: -50.029617}
+        - {x: 25.371002, y: -45.029617}
+        - {x: 25.371002, y: 6.9703827}
+    - name: Dengkul Kanan
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 237
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.005157, y: 18.634544}
+        - {x: -16.005157, y: 12.634544}
+        - {x: -16.005157, y: -15.365456}
+        - {x: -12.005157, y: -18.365456}
+        - {x: 10.994843, y: -18.365456}
+        - {x: 17.994843, y: -12.365456}
+        - {x: 17.994843, y: 18.634544}
+    - name: Dengkul Kiri
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 8
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.245148, y: 19.818888}
+        - {x: -17.245148, y: 17.818888}
+        - {x: -17.245148, y: -17.181112}
+        - {x: -15.245148, y: -18.181112}
+        - {x: 10.754852, y: -18.181112}
+        - {x: 17.754852, y: -15.181112}
+        - {x: 17.754852, y: 12.818888}
+        - {x: 10.754852, y: 19.818888}
+    - name: Pahah Kiri
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 101
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5141369, y: 0.78338253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.788315, y: 13.778877}
+        - {x: -24.788315, y: 9.778877}
+        - {x: -24.788315, y: -32.221123}
+        - {x: -19.788315, y: -47.221123}
+        - {x: -18.788315, y: -49.221123}
+        - {x: 24.211685, y: -49.221123}
+        - {x: 24.211685, y: 8.778877}
+        - {x: 20.211685, y: 13.778877}
+    - name: Kaki Kiri
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 95
+        height: 149
+      alignment: 9
+      pivot: {x: 0.33467504, y: 0.8545573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.399139, y: -61.218517}
+        - {x: 30.60086, y: -61.218517}
+        - {x: 30.60086, y: -36.218517}
+        - {x: 22.60086, y: 10.781483}
+        - {x: -15.399139, y: 10.781483}
+        - {x: -15.399139, y: -39.218517}
+    - name: Kaki Kanan
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2
+        width: 92
+        height: 150
+      alignment: 9
+      pivot: {x: 0.32928333, y: 0.8426747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.530426, y: 12.917797}
+        - {x: -14.530426, y: -48.082203}
+        - {x: -11.530426, y: -59.082203}
+        - {x: -10.530426, y: -60.082203}
+        - {x: 30.469574, y: -60.082203}
+        - {x: 30.469574, y: 2.917797}
+        - {x: 20.469574, y: 12.917797}
+    outline: []
+  spritePackingTag: Karakter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

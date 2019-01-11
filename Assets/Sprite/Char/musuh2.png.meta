@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 2aeac917e28c15644a9ebc9e505aa74f
+timeCreated: 1473928854
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kepala
+    21300002: pistol
+    21300004: tangankanan
+    21300006: badan
+    21300008: pahakiri
+    21300010: dengkulkiri
+    21300012: tangankiri
+    21300014: pahakanan
+    21300016: kakikanan
+    21300018: dengkulkanan
+    21300020: kakikiri
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: kepala
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 198
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 83.096344}
+        - {x: -65.5, y: 83.096344}
+        - {x: -66.5, y: 78.096344}
+        - {x: -66.5, y: -67.903656}
+        - {x: -35.5, y: -79.903656}
+        - {x: -23.5, y: -81.903656}
+        - {x: 43.5, y: -81.903656}
+        - {x: 65.5, y: -52.903656}
+        - {x: 66.5, y: -45.903656}
+        - {x: 66.5, y: 59.096344}
+    - name: pistol
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 617
+        width: 263
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.350586, y: 43.52884}
+        - {x: -88.350586, y: 25.52884}
+        - {x: -88.350586, y: -16.47116}
+        - {x: -39.350586, y: -34.47116}
+        - {x: -31.350586, y: -27.47116}
+        - {x: -10.350586, y: -43.47116}
+        - {x: 52.649414, y: -43.47116}
+        - {x: 88.649414, y: 3.528839}
+        - {x: 88.649414, y: 27.52884}
+        - {x: 78.649414, y: 43.52884}
+    - name: tangankanan
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 307
+        width: 156
+        height: 124
+      alignment: 9
+      pivot: {x: 0.41187462, y: 0.94346917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.393513, y: 5.1075134}
+        - {x: -43.393513, y: -38.892487}
+        - {x: -43.393513, y: -73.89249}
+        - {x: -30.393513, y: -78.89249}
+        - {x: 62.606487, y: -78.89249}
+        - {x: 62.606487, y: -14.892487}
+        - {x: 49.606487, y: 5.1075134}
+    - name: badan
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 366
+        width: 182
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.005234, y: 82.09895}
+        - {x: -61.005234, y: 69.09895}
+        - {x: -61.005234, y: -80.90105}
+        - {x: 62.994766, y: -80.90105}
+        - {x: 62.994766, y: 44.098953}
+        - {x: 31.994766, y: 82.09895}
+    - name: pahakiri
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 409
+        width: 99
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5, y: 0.98135656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.30011, y: 2.515625}
+        - {x: -33.30011, y: -8.484375}
+        - {x: -33.30011, y: -53.484375}
+        - {x: -22.30011, y: -74.484375}
+        - {x: -20.30011, y: -78.484375}
+        - {x: 25.69989, y: -78.484375}
+        - {x: 34.69989, y: -77.484375}
+        - {x: 34.69989, y: -6.484375}
+        - {x: 21.69989, y: 2.515625}
+    - name: dengkulkiri
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 266
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.221466, y: 23.995422}
+        - {x: -23.221466, y: -20.004578}
+        - {x: -20.221466, y: -23.004578}
+        - {x: 22.778534, y: -23.004578}
+        - {x: 24.778534, y: -22.004578}
+        - {x: 24.778534, y: 16.995422}
+        - {x: 21.778534, y: 23.995422}
+    - name: tangankiri
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 204
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 25}
+        - {x: -18, y: -25}
+        - {x: 18, y: -25}
+        - {x: 18, y: 25}
+    - name: pahakanan
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 145
+        width: 99
+        height: 119
+      alignment: 9
+      pivot: {x: 0.45371193, y: 0.98135656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.84439, y: 2.3622665}
+        - {x: -20.15561, y: 2.3622665}
+        - {x: -30.15561, y: -1.6377335}
+        - {x: -30.15561, y: -59.637733}
+        - {x: -22.15561, y: -78.63773}
+        - {x: 29.84439, y: -78.63773}
+        - {x: 32.84439, y: -77.63773}
+        - {x: 33.84439, y: -72.63773}
+        - {x: 37.84439, y: -37.637733}
+        - {x: 37.84439, y: -7.6377335}
+    - name: kakikanan
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 99
+        height: 144
+      alignment: 9
+      pivot: {x: 0.29170388, y: 0.9296108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.491983, y: -61.01291}
+        - {x: -17.491983, y: -86.01291}
+        - {x: -15.491983, y: -90.01291}
+        - {x: 47.50802, y: -90.01291}
+        - {x: 47.50802, y: -55.01291}
+        - {x: 24.508017, y: 6.987091}
+        - {x: -18.491983, y: 6.987091}
+        - {x: -19.491983, y: 4.987091}
+    - name: dengkulkanan
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 55
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.385971, y: 24.906948}
+        - {x: -23.385971, y: 17.906948}
+        - {x: -23.385971, y: -23.093052}
+        - {x: 21.614029, y: -23.093052}
+        - {x: 23.614029, y: -20.093052}
+        - {x: 23.614029, y: 17.906948}
+        - {x: 21.614029, y: 24.906948}
+    - name: kakikiri
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 22
+        width: 99
+        height: 145
+      alignment: 9
+      pivot: {x: 0.24541558, y: 0.94244987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.124664, y: 7.212349}
+        - {x: -16.124664, y: -80.78765}
+        - {x: -10.124664, y: -91.78765}
+        - {x: 50.875336, y: -91.78765}
+        - {x: 50.875336, y: -32.78765}
+        - {x: 39.875336, y: 1.2123489}
+        - {x: 26.875336, y: 7.212349}
+    outline: []
+  spritePackingTag: Karakter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

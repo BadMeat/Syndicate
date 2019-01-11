@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: bb399e8b696e0d24681c3cc656748696
+timeCreated: 1475159685
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kepala
+    21300002: tangan kanan
+    21300004: jempol
+    21300006: jari
+    21300008: senjata
+    21300010: badan
+    21300012: paha kanan
+    21300014: paha kiri
+    21300016: dengkul kanan
+    21300018: dengkul kiri
+    21300020: betis kanan
+    21300022: betis kiri
+    21300024: karakter3_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kepala
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 503
+        width: 278
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: 5.5}
+        - {x: 136, y: 23.5}
+        - {x: 133, y: 90.5}
+        - {x: 96, y: 131.5}
+        - {x: 80, y: 136.5}
+        - {x: -31, y: 136.5}
+        - {x: -71, y: 126.5}
+        - {x: -86, y: 110.5}
+        - {x: -91, y: 36.5}
+        - {x: -126, y: 22.5}
+        - {x: -139, y: 10.5}
+        - {x: -139, y: -3.5}
+        - {x: -100, y: -5.5}
+        - {x: -97, y: -41.5}
+        - {x: -16, y: -122.5}
+        - {x: 27, y: -135.5}
+        - {x: 51, y: -135.5}
+        - {x: 75, y: -133.5}
+        - {x: 118, y: -97.5}
+        - {x: 134, y: -62.5}
+        - {x: 138, y: -15.5}
+    - name: tangan kanan
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 612
+        width: 187
+        height: 155
+      alignment: 9
+      pivot: {x: 0.3293341, y: 0.8694092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.58548, y: 20.241577}
+        - {x: -61.58548, y: -39.758423}
+        - {x: -61.58548, y: -126.75842}
+        - {x: -46.58548, y: -134.75842}
+        - {x: 98.41452, y: -134.75842}
+        - {x: 125.41452, y: -117.75842}
+        - {x: 125.41452, y: -50.758423}
+        - {x: 67.41452, y: 20.241577}
+    - name: jempol
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 720
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: 5.5}
+        - {x: 136, y: 23.5}
+        - {x: 133, y: 90.5}
+        - {x: 96, y: 131.5}
+        - {x: 80, y: 136.5}
+        - {x: -31, y: 136.5}
+        - {x: -71, y: 126.5}
+        - {x: -86, y: 110.5}
+        - {x: -91, y: 36.5}
+        - {x: -126, y: 22.5}
+        - {x: -139, y: 10.5}
+        - {x: -139, y: -3.5}
+        - {x: -100, y: -5.5}
+        - {x: -97, y: -41.5}
+        - {x: -16, y: -122.5}
+        - {x: 27, y: -135.5}
+        - {x: 51, y: -135.5}
+        - {x: 75, y: -133.5}
+        - {x: 118, y: -97.5}
+        - {x: 134, y: -62.5}
+        - {x: 138, y: -15.5}
+        - {x: 138, y: 5.5}
+        - {x: 136, y: 23.5}
+        - {x: 133, y: 90.5}
+        - {x: 96, y: 131.5}
+        - {x: 80, y: 136.5}
+        - {x: -31, y: 136.5}
+        - {x: -71, y: 126.5}
+        - {x: -86, y: 110.5}
+        - {x: -91, y: 36.5}
+        - {x: -126, y: 22.5}
+        - {x: -139, y: 10.5}
+        - {x: -139, y: -3.5}
+        - {x: -100, y: -5.5}
+        - {x: -97, y: -41.5}
+        - {x: -16, y: -122.5}
+        - {x: 27, y: -135.5}
+        - {x: 51, y: -135.5}
+        - {x: 75, y: -133.5}
+        - {x: 118, y: -97.5}
+        - {x: 134, y: -62.5}
+        - {x: 138, y: -15.5}
+        - {x: 138, y: 5.5}
+        - {x: 136, y: 23.5}
+        - {x: 133, y: 90.5}
+        - {x: 96, y: 131.5}
+        - {x: 80, y: 136.5}
+        - {x: -31, y: 136.5}
+        - {x: -71, y: 126.5}
+        - {x: -86, y: 110.5}
+        - {x: -91, y: 36.5}
+        - {x: -126, y: 22.5}
+        - {x: -139, y: 10.5}
+        - {x: -139, y: -3.5}
+        - {x: -100, y: -5.5}
+        - {x: -97, y: -41.5}
+        - {x: -16, y: -122.5}
+        - {x: 27, y: -135.5}
+        - {x: 51, y: -135.5}
+        - {x: 75, y: -133.5}
+        - {x: 118, y: -97.5}
+        - {x: 134, y: -62.5}
+        - {x: 138, y: -15.5}
+      - - {x: 138, y: 5.5}
+        - {x: 136, y: 23.5}
+        - {x: 133, y: 90.5}
+        - {x: 96, y: 131.5}
+        - {x: 80, y: 136.5}
+        - {x: -31, y: 136.5}
+        - {x: -71, y: 126.5}
+        - {x: -86, y: 110.5}
+        - {x: -91, y: 36.5}
+        - {x: -126, y: 22.5}
+        - {x: -139, y: 10.5}
+        - {x: -139, y: -3.5}
+        - {x: -100, y: -5.5}
+        - {x: -97, y: -41.5}
+        - {x: -16, y: -122.5}
+        - {x: 27, y: -135.5}
+        - {x: 51, y: -135.5}
+        - {x: 75, y: -133.5}
+        - {x: 118, y: -97.5}
+        - {x: 134, y: -62.5}
+        - {x: 138, y: -15.5}
+        - {x: 138, y: 5.5}
+        - {x: 136, y: 23.5}
+        - {x: 133, y: 90.5}
+        - {x: 96, y: 131.5}
+        - {x: 80, y: 136.5}
+        - {x: -31, y: 136.5}
+        - {x: -71, y: 126.5}
+        - {x: -86, y: 110.5}
+        - {x: -91, y: 36.5}
+        - {x: -126, y: 22.5}
+        - {x: -139, y: 10.5}
+        - {x: -139, y: -3.5}
+        - {x: -100, y: -5.5}
+        - {x: -97, y: -41.5}
+        - {x: -16, y: -122.5}
+        - {x: 27, y: -135.5}
+        - {x: 51, y: -135.5}
+        - {x: 75, y: -133.5}
+        - {x: 118, y: -97.5}
+        - {x: 134, y: -62.5}
+        - {x: 138, y: -15.5}
+      - - {x: 138, y: 5.5}
+        - {x: 136, y: 23.5}
+        - {x: 133, y: 90.5}
+        - {x: 96, y: 131.5}
+        - {x: 80, y: 136.5}
+        - {x: -31, y: 136.5}
+        - {x: -71, y: 126.5}
+        - {x: -86, y: 110.5}
+        - {x: -91, y: 36.5}
+        - {x: -126, y: 22.5}
+        - {x: -139, y: 10.5}
+        - {x: -139, y: -3.5}
+        - {x: -100, y: -5.5}
+        - {x: -97, y: -41.5}
+        - {x: -16, y: -122.5}
+        - {x: 27, y: -135.5}
+        - {x: 51, y: -135.5}
+        - {x: 75, y: -133.5}
+        - {x: 118, y: -97.5}
+        - {x: 134, y: -62.5}
+        - {x: 138, y: -15.5}
+    - name: jari
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 679
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 30}
+        - {x: -21.5, y: -18}
+        - {x: -13.5, y: -30}
+        - {x: 21.5, y: -30}
+        - {x: 21.5, y: 27}
+        - {x: 19.5, y: 30}
+    - name: senjata
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 431
+        width: 312
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -156, y: 62.5}
+        - {x: -156, y: -25.5}
+        - {x: -146, y: -62.5}
+        - {x: 61, y: -62.5}
+        - {x: 66, y: -55.5}
+        - {x: 156, y: -18.5}
+        - {x: 156, y: 37.5}
+        - {x: 117, y: 62.5}
+    - name: badan
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 240
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 66.5}
+        - {x: 84, y: 62.5}
+        - {x: 79, y: 89.5}
+        - {x: 55, y: 84.5}
+        - {x: -38, y: 129.5}
+        - {x: -65, y: 141.5}
+        - {x: -101, y: 141.5}
+        - {x: -115, y: 129.5}
+        - {x: -120, y: 114.5}
+        - {x: -120, y: 35.5}
+        - {x: -118, y: 19.5}
+        - {x: -86, y: -7.5}
+        - {x: -92, y: -30.5}
+        - {x: -98, y: -113.5}
+        - {x: -82, y: -128.5}
+        - {x: 1, y: -141.5}
+        - {x: 55, y: -141.5}
+        - {x: 120, y: -114.5}
+        - {x: 120, y: -42.5}
+        - {x: 116, y: 17.5}
+    - name: paha kanan
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 237
+        width: 100
+        height: 121
+      alignment: 9
+      pivot: {x: 0.50921786, y: 0.804717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.921783, y: 23.629242}
+        - {x: -50.921783, y: 6.629242}
+        - {x: -50.921783, y: -63.370758}
+        - {x: -35.921783, y: -97.37076}
+        - {x: 40.078217, y: -97.37076}
+        - {x: 49.078217, y: -95.37076}
+        - {x: 49.078217, y: 10.629242}
+        - {x: 28.078217, y: 23.629242}
+    - name: paha kiri
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 258
+        width: 101
+        height: 121
+      alignment: 9
+      pivot: {x: 0.51825255, y: 0.8351887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.343506, y: 19.94217}
+        - {x: -45.343506, y: 15.942169}
+        - {x: -52.343506, y: 0.9421692}
+        - {x: -52.343506, y: -23.05783}
+        - {x: -39.343506, y: -94.05783}
+        - {x: -30.343506, y: -101.05783}
+        - {x: 22.656494, y: -101.05783}
+        - {x: 42.656494, y: -98.05783}
+        - {x: 48.656494, y: -43.05783}
+        - {x: 48.656494, y: 7.942169}
+        - {x: 31.656494, y: 19.94217}
+    - name: dengkul kanan
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 117
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 35}
+        - {x: -35, y: 21}
+        - {x: -35, y: -21}
+        - {x: -28, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 23}
+        - {x: 30, y: 35}
+    - name: dengkul kiri
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 177
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 35}
+        - {x: -35.5, y: 21}
+        - {x: -35.5, y: -23}
+        - {x: -32.5, y: -35}
+        - {x: 29.5, y: -35}
+        - {x: 35.5, y: -25}
+        - {x: 35.5, y: 33}
+        - {x: 26.5, y: 35}
+    - name: betis kanan
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 94
+        height: 138
+      alignment: 9
+      pivot: {x: 0.3365917, y: 0.8130515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.639618, y: 25.79889}
+        - {x: -31.639618, y: 22.79889}
+        - {x: -31.639618, y: -70.20111}
+        - {x: -24.639618, y: -112.20111}
+        - {x: 62.360382, y: -112.20111}
+        - {x: 62.360382, y: -67.20111}
+        - {x: 35.360382, y: 25.79889}
+    - name: betis kiri
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 93
+        height: 139
+      alignment: 9
+      pivot: {x: 0.3451571, y: 0.8315191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.09961, y: 23.418839}
+        - {x: -32.09961, y: 12.4188385}
+        - {x: -32.09961, y: -75.58116}
+        - {x: -24.09961, y: -115.58116}
+        - {x: 60.90039, y: -115.58116}
+        - {x: 60.90039, y: -4.5811615}
+        - {x: 56.90039, y: 20.418839}
+        - {x: 39.90039, y: 23.418839}
+    outline: []
+  spritePackingTag: Karakter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

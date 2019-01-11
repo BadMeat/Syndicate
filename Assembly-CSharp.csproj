@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{8587D3AE-88AB-9E17-F63D-2105BD93A200}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_1;UNITY_5_3;UNITY_5;UNITY_ADS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>E:/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>E:/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Script\BoxoxMen.cs" />
+     <Compile Include="Assets\Script\Enemy\BaseEnemy.cs" />
+     <Compile Include="Assets\Script\Enemy\Enemy.cs" />
+     <Compile Include="Assets\Script\Enemy\EnemyBase.cs" />
+     <Compile Include="Assets\Script\Enemy\EnemyWaiting.cs" />
+     <Compile Include="Assets\Script\Enemy\GunEnemy.cs" />
+     <Compile Include="Assets\Script\Enemy\HealthHandling.cs" />
+     <Compile Include="Assets\Script\Enemy\KnifeEnemy.cs" />
+     <Compile Include="Assets\Script\Enemy\NormalEnemy.cs" />
+     <Compile Include="Assets\Script\Ground\CheckPoint.cs" />
+     <Compile Include="Assets\Script\Ground\HightGround.cs" />
+     <Compile Include="Assets\Script\Ground\MovingDoor.cs" />
+     <Compile Include="Assets\Script\Ground\Semak.cs" />
+     <Compile Include="Assets\Script\Ground\UpGround.cs" />
+     <Compile Include="Assets\Script\GroundHangus.cs" />
+     <Compile Include="Assets\Script\IroniMan.cs" />
+     <Compile Include="Assets\Script\ManyExplo.cs" />
+     <Compile Include="Assets\Script\NPC\Bird.cs" />
+     <Compile Include="Assets\Script\Player\BorderCamera.cs" />
+     <Compile Include="Assets\Script\Player\Controller.cs" />
+     <Compile Include="Assets\Script\Player\FollowingCamera.cs" />
+     <Compile Include="Assets\Script\Plur.cs" />
+     <Compile Include="Assets\Script\Rottt.cs" />
+     <Compile Include="Assets\Script\Shop.cs" />
+     <Compile Include="Assets\Script\Sistem\BossPosition.cs" />
+     <Compile Include="Assets\Script\Sistem\CharacterSelection.cs" />
+     <Compile Include="Assets\Script\Sistem\Cloud.cs" />
+     <Compile Include="Assets\Script\Sistem\DestroySelf.cs" />
+     <Compile Include="Assets\Script\Sistem\Door.cs" />
+     <Compile Include="Assets\Script\Sistem\EndGame.cs" />
+     <Compile Include="Assets\Script\Sistem\Game.cs" />
+     <Compile Include="Assets\Script\Sistem\GameManager.cs" />
+     <Compile Include="Assets\Script\Sistem\GameMenu.cs" />
+     <Compile Include="Assets\Script\Sistem\Loading.cs" />
+     <Compile Include="Assets\Script\Sistem\Map.cs" />
+     <Compile Include="Assets\Script\Sistem\MenuUtama.cs" />
+     <Compile Include="Assets\Script\Sistem\PlayerAd.cs" />
+     <Compile Include="Assets\Script\Sistem\SaveLoad.cs" />
+     <Compile Include="Assets\Script\Sistem\SplashScreen.cs" />
+     <Compile Include="Assets\Script\Talking.cs" />
+     <Compile Include="Assets\Script\Weapon\Bullet.cs" />
+     <Compile Include="Assets\Script\Weapon\EnemyBullet.cs" />
+     <Compile Include="Assets\Script\Weapon\Gun.cs" />
+     <Compile Include="Assets\Script\Weapon\MG.cs" />
+     <Compile Include="Assets\Script\Weapon\Rocket.cs" />
+     <Compile Include="Assets\Script\Weapon\WeaponBonus.cs" />
+     <Compile Include="Assets\Script\WeaponShop.cs" />
+ <Reference Include="UnityEngine.Advertisements">
+ <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>E:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

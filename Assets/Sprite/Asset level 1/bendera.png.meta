@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 05f14339eee82934a8359e9c98077593
+timeCreated: 1476530955
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bendera_0
+    21300002: bendera_1
+    21300004: bendera_2
+    21300006: bendera_3
+    21300008: bendera_4
+    21300010: bendera_5
+    21300012: bendera_6
+    21300014: bendera_7
+    21300016: bendera_8
+    21300018: bendera_9
+    21300020: bendera_10
+    21300022: bendera_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bendera_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 429
+        width: 48
+        height: 355
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 355}
+        - {x: 1, y: 355}
+        - {x: 0, y: 353}
+        - {x: 0, y: 302}
+        - {x: 7, y: 0}
+        - {x: 24, y: 0}
+        - {x: 48, y: 201}
+        - {x: 48, y: 313}
+        - {x: 44, y: 346}
+    - name: bendera_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 429
+        width: 75
+        height: 355
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 355}
+        - {x: 0, y: 240}
+        - {x: 8, y: 0}
+        - {x: 75, y: 0}
+        - {x: 75, y: 355}
+    - name: bendera_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 428
+        width: 116
+        height: 355
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 355}
+        - {x: 0, y: 355}
+        - {x: 0, y: 0}
+        - {x: 24, y: 0}
+        - {x: 26, y: 6}
+        - {x: 116, y: 155}
+        - {x: 116, y: 292}
+    - name: bendera_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 428
+        width: 168
+        height: 355
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 355}
+        - {x: 3, y: 355}
+        - {x: 1, y: 354}
+        - {x: 0, y: 351}
+        - {x: 0, y: 0}
+        - {x: 136, y: 0}
+        - {x: 168, y: 81}
+        - {x: 168, y: 239}
+        - {x: 139, y: 287}
+    - name: bendera_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 428
+        width: 174
+        height: 354
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 174, y: 276}
+        - {x: 113, y: 354}
+        - {x: 0, y: 354}
+        - {x: 0, y: 165}
+        - {x: 7, y: 0}
+        - {x: 24, y: 0}
+        - {x: 45, y: 165}
+        - {x: 170, y: 123}
+        - {x: 174, y: 131}
+    - name: bendera_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 428
+        width: 176
+        height: 355
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 355}
+        - {x: 1, y: 355}
+        - {x: 1, y: 193}
+        - {x: 7, y: 0}
+        - {x: 35, y: 0}
+        - {x: 176, y: 144}
+        - {x: 176, y: 279}
+        - {x: 69, y: 346}
+    - name: bendera_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 428
+        width: 178
+        height: 354
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 176, y: 261}
+        - {x: 126, y: 324}
+        - {x: 49, y: 354}
+        - {x: 0, y: 354}
+        - {x: 0, y: 80}
+        - {x: 3, y: 4}
+        - {x: 7, y: 0}
+        - {x: 24, y: 0}
+        - {x: 87, y: 157}
+        - {x: 178, y: 146}
+        - {x: 178, y: 241}
+    - name: bendera_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 178
+        height: 354
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 160, y: 327}
+        - {x: 87, y: 354}
+        - {x: 2, y: 354}
+        - {x: 0, y: 352}
+        - {x: 0, y: 219}
+        - {x: 7, y: 0}
+        - {x: 22, y: 0}
+        - {x: 25, y: 4}
+        - {x: 178, y: 89}
+        - {x: 178, y: 280}
+    - name: bendera_8
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 188
+        height: 355
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: 314}
+        - {x: 93, y: 306}
+        - {x: 29, y: 355}
+        - {x: 0, y: 355}
+        - {x: 0, y: 194}
+        - {x: 7, y: 0}
+        - {x: 35, y: 0}
+        - {x: 150, y: 142}
+        - {x: 188, y: 181}
+        - {x: 188, y: 257}
+    - name: bendera_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1
+        width: 189
+        height: 354
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189, y: 256}
+        - {x: 167, y: 289}
+        - {x: 57, y: 341}
+        - {x: 38, y: 354}
+        - {x: 0, y: 354}
+        - {x: 0, y: 189}
+        - {x: 7, y: 0}
+        - {x: 27, y: 0}
+        - {x: 46, y: 158}
+        - {x: 167, y: 142}
+        - {x: 189, y: 180}
+    - name: bendera_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1
+        width: 190
+        height: 355
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 314}
+        - {x: 6, y: 306}
+        - {x: 8, y: 4}
+        - {x: 7, y: 0}
+        - {x: 91, y: 0}
+        - {x: 190, y: 72}
+        - {x: 190, y: 262}
+        - {x: 180, y: 272}
+        - {x: 35, y: 355}
+        - {x: 5, y: 355}
+        - {x: 0, y: 353}
+    - name: bendera_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 187
+        height: 354
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 187, y: 225}
+        - {x: 168, y: 280}
+        - {x: 42, y: 354}
+        - {x: 0, y: 354}
+        - {x: 0, y: 204}
+        - {x: 7, y: 0}
+        - {x: 27, y: 0}
+        - {x: 39, y: 163}
+        - {x: 108, y: 148}
+        - {x: 187, y: 163}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

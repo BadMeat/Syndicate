@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: f95e52e2033abf44dae9c31fcb154ed5
+timeCreated: 1465714904
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kepala
+    21300002: pahakanan
+    21300004: pahakiri
+    21300006: pistol
+    21300008: joni nano_4
+    21300010: joni nano_5
+    21300012: tangan
+    21300014: badan
+    21300016: kakikanan
+    21300018: kakikiri
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kepala
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 658
+        width: 320
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: -6}
+        - {x: 146, y: -60}
+        - {x: 156, y: -59}
+        - {x: 156, y: 4}
+        - {x: 160, y: 5}
+        - {x: 160, y: 26}
+        - {x: 104, y: 99}
+        - {x: 87, y: 115}
+        - {x: 58, y: 143}
+        - {x: 40, y: 150}
+        - {x: 29, y: 151}
+        - {x: -41, y: 151}
+        - {x: -100, y: 131}
+        - {x: -158, y: 67}
+        - {x: -160, y: 51}
+        - {x: -160, y: 20}
+        - {x: -150, y: 20}
+        - {x: -159, y: -6}
+        - {x: -154, y: -51}
+        - {x: -125, y: -67}
+        - {x: -116, y: -90}
+        - {x: -70, y: -140}
+        - {x: -31, y: -151}
+        - {x: 29, y: -151}
+        - {x: 76, y: -114}
+        - {x: 91, y: -82}
+        - {x: 101, y: -12}
+    - name: pahakanan
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 568
+        width: 147
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5364168, y: 0.78585255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.14673, y: 44.11438}
+        - {x: -44.85327, y: 44.11438}
+        - {x: -73.85327, y: 18.11438}
+        - {x: -78.85327, y: -34.88562}
+        - {x: -78.85327, y: -129.88562}
+        - {x: -54.85327, y: -160.88562}
+        - {x: -47.85327, y: -161.88562}
+        - {x: 10.1467285, y: -161.88562}
+        - {x: 39.14673, y: -136.88562}
+        - {x: 68.14673, y: -72.88562}
+        - {x: 68.14673, y: 32.11438}
+    - name: pahakiri
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 568
+        width: 148
+        height: 207
+      alignment: 9
+      pivot: {x: 0.42765933, y: 0.75861037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.70642, y: 49.96765}
+        - {x: -31.29358, y: 49.96765}
+        - {x: -63.29358, y: 39.96765}
+        - {x: -63.29358, y: -46.03235}
+        - {x: -44.29358, y: -122.03235}
+        - {x: -20.29358, y: -153.03235}
+        - {x: -0.2935791, y: -157.03235}
+        - {x: 61.70642, y: -157.03235}
+        - {x: 84.70642, y: -147.03235}
+        - {x: 84.70642, y: 8.967651}
+        - {x: 75.70642, y: 22.967651}
+    - name: pistol
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 429
+        width: 284
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -60}
+        - {x: 92, y: -70}
+        - {x: 142, y: -54}
+        - {x: 142, y: 72}
+        - {x: 112, y: 77}
+        - {x: -84, y: 77}
+        - {x: -142, y: 46}
+        - {x: -142, y: -74}
+        - {x: -129, y: -77}
+        - {x: -91, y: -77}
+        - {x: -83, y: -71}
+        - {x: -30, y: -36}
+        - {x: -26, y: -33}
+    - name: joni nano_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 413
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 56}
+        - {x: -56, y: 29}
+        - {x: -56, y: -43}
+        - {x: -27, y: -56}
+        - {x: 37, y: -56}
+        - {x: 56, y: -36}
+        - {x: 56, y: 37}
+        - {x: 33, y: 56}
+    - name: joni nano_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 407
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 56.5}
+        - {x: -56.5, y: 34.5}
+        - {x: -56.5, y: -39.5}
+        - {x: -38.5, y: -56.5}
+        - {x: 36.5, y: -56.5}
+        - {x: 54.5, y: -52.5}
+        - {x: 56.5, y: -43.5}
+        - {x: 56.5, y: 32.5}
+        - {x: 31.5, y: 56.5}
+    - name: tangan
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 198
+        height: 166
+      alignment: 9
+      pivot: {x: 0.28370753, y: 0.8117345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.82591, y: 31.252075}
+        - {x: -56.17409, y: 31.252075}
+        - {x: -56.17409, y: -134.74792}
+        - {x: 52.82591, y: -134.74792}
+        - {x: 138.82591, y: -114.747925}
+        - {x: 141.82591, y: -109.747925}
+        - {x: 141.82591, y: -34.747925}
+        - {x: 93.82591, y: 20.252075}
+    - name: badan
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 242
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: 63}
+        - {x: 81, y: 86}
+        - {x: 53, y: 84}
+        - {x: -54, y: 131}
+        - {x: -63, y: 134}
+        - {x: -102, y: 134}
+        - {x: -119, y: 122}
+        - {x: -121, y: 103}
+        - {x: -121, y: 27}
+        - {x: -117, y: 18}
+        - {x: -89, y: -6}
+        - {x: -97, y: -100}
+        - {x: -98, y: -112}
+        - {x: -67, y: -128}
+        - {x: -2, y: -134}
+        - {x: 51, y: -134}
+        - {x: 121, y: -109}
+        - {x: 121, y: -33}
+        - {x: 110, y: 71}
+    - name: kakikanan
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 141
+        width: 165
+        height: 225
+      alignment: 9
+      pivot: {x: 0.52162904, y: 0.7855059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.93121, y: -31.73883}
+        - {x: 66.93121, y: 12.261169}
+        - {x: 48.931213, y: 45.26117}
+        - {x: 38.931213, y: 48.26117}
+        - {x: -33.068787, y: 48.26117}
+        - {x: -67.06879, y: 17.26117}
+        - {x: -86.06879, y: -120.73883}
+        - {x: -86.06879, y: -176.73883}
+        - {x: 72.93121, y: -176.73883}
+        - {x: 78.93121, y: -160.73883}
+        - {x: 78.93121, y: -114.73883}
+        - {x: 45.931213, y: -97.73883}
+    - name: kakikiri
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 151
+        width: 187
+        height: 208
+      alignment: 9
+      pivot: {x: 0.28052673, y: 0.83457726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.541504, y: -57.59207}
+        - {x: 56.541504, y: 34.40793}
+        - {x: -27.458496, y: 34.40793}
+        - {x: -52.458496, y: 11.407928}
+        - {x: -52.458496, y: -80.59207}
+        - {x: -27.458496, y: -172.59207}
+        - {x: -5.458496, y: -173.59207}
+        - {x: 116.541504, y: -173.59207}
+        - {x: 134.5415, y: -163.59207}
+        - {x: 134.5415, y: -108.59207}
+        - {x: 113.541504, y: -100.59207}
+    outline: []
+  spritePackingTag: Karakter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

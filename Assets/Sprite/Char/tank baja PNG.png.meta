@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: ab67e34cc5165ce4595a9fd2cb7e67cb
+timeCreated: 1475463874
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tank baja PNG_0
+    21300002: tank baja PNG_1
+    21300004: tank baja PNG_2
+    21300006: tank baja PNG_3
+    21300008: tank baja PNG_4
+    21300010: tank baja PNG_5
+    21300012: tank baja PNG_6
+    21300014: tank baja PNG_7
+    21300016: tank baja PNG_8
+    21300018: tank baja PNG_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: tank baja PNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 159
+        height: 129
+      alignment: 9
+      pivot: {x: 0.96682256, y: 0.08841013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.318855, y: 56.606567}
+        - {x: -73.318855, y: 13.606567}
+        - {x: -62.318855, y: -5.3934326}
+        - {x: 2.6811447, y: -5.3934326}
+        - {x: 2.6811447, y: 11.606567}
+        - {x: -49.318855, y: 56.606567}
+    - name: tank baja PNG_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 362
+        width: 435
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.345726, y: 61.252792}
+        - {x: 83.345726, y: 96.25279}
+        - {x: -43.654274, y: 96.25279}
+        - {x: -45.654274, y: 82.25279}
+        - {x: -103.654274, y: 6.2527924}
+        - {x: -103.654274, y: -12.747208}
+        - {x: -80.654274, y: -80.74721}
+        - {x: -68.654274, y: -95.74721}
+        - {x: 98.345726, y: -95.74721}
+        - {x: 99.345726, y: -93.74721}
+        - {x: 104.345726, y: -88.74721}
+        - {x: 104.345726, y: 43.252792}
+    - name: tank baja PNG_2
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 694
+        width: 277
+        height: 78
+      alignment: 9
+      pivot: {x: 0.06931809, y: 0.4493557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.774139, y: -14.889862}
+        - {x: -7.7741394, y: -15.889862}
+        - {x: 41.22586, y: -16.889862}
+        - {x: 124.22586, y: -16.889862}
+        - {x: 124.22586, y: 21.110138}
+        - {x: -8.774139, y: 21.110138}
+    - name: tank baja PNG_3
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 487
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.213745, y: 33.232346}
+        - {x: -32.213745, y: 17.232346}
+        - {x: -32.213745, y: -20.767654}
+        - {x: -21.213745, y: -31.767654}
+        - {x: 17.786255, y: -31.767654}
+        - {x: 32.786255, y: -24.767654}
+        - {x: 32.786255, y: 20.232346}
+        - {x: 28.786255, y: 33.232346}
+    - name: tank baja PNG_4
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 360
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.97583, y: 19.301117}
+        - {x: -18.97583, y: 13.301117}
+        - {x: -18.97583, y: -12.698883}
+        - {x: -9.97583, y: -18.698883}
+        - {x: 15.02417, y: -18.698883}
+        - {x: 20.02417, y: -14.698883}
+        - {x: 20.02417, y: 13.301117}
+        - {x: 17.02417, y: 19.301117}
+    - name: tank baja PNG_5
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 274
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.083649, y: 22.37918}
+        - {x: -22.083649, y: 21.37918}
+        - {x: -22.083649, y: -11.620819}
+        - {x: -14.083649, y: -20.62082}
+        - {x: -11.083649, y: -21.62082}
+        - {x: 13.916351, y: -21.62082}
+        - {x: 22.916351, y: -17.62082}
+        - {x: 22.916351, y: 18.37918}
+        - {x: 17.916351, y: 22.37918}
+    - name: tank baja PNG_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 186
+        width: 550
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.08365, y: 20.505577}
+        - {x: -131.08365, y: -19.494423}
+        - {x: 128.91635, y: -19.494423}
+        - {x: 131.91635, y: -17.494423}
+        - {x: 131.91635, y: 10.505577}
+        - {x: 111.91635, y: 20.505577}
+    - name: tank baja PNG_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 166
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.717468, y: 23.488846}
+        - {x: -21.717468, y: 17.488846}
+        - {x: -21.717468, y: -15.511154}
+        - {x: -11.717468, y: -21.511154}
+        - {x: 13.282532, y: -21.511154}
+        - {x: 22.282532, y: -12.511154}
+        - {x: 22.282532, y: 21.488846}
+        - {x: 16.282532, y: 23.488846}
+    - name: tank baja PNG_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 542
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.83086, y: 24.5}
+        - {x: 47.830856, y: 27.5}
+        - {x: -129.16914, y: 27.5}
+        - {x: -129.16914, y: -4.5}
+        - {x: -127.16914, y: -14.5}
+        - {x: -115.16914, y: -27.5}
+        - {x: 121.83086, y: -27.5}
+        - {x: 129.83086, y: 0.5}
+        - {x: 129.83086, y: 27.5}
+        - {x: 125.83086, y: 27.5}
+        - {x: 120.83086, y: 26.5}
+    - name: tank baja PNG_9
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 7
+        width: 135
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.737915, y: 32.830856}
+        - {x: -31.737915, y: 22.830856}
+        - {x: -31.737915, y: -19.169144}
+        - {x: -17.737915, y: -32.169144}
+        - {x: 29.262085, y: -32.169144}
+        - {x: 33.262085, y: -19.169144}
+        - {x: 33.262085, y: 22.830856}
+        - {x: 24.262085, y: 32.830856}
+    outline: []
+  spritePackingTag: Karakter
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
